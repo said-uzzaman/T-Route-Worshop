@@ -24,7 +24,7 @@ Follow the setup instructions in `docs/` to build the environment, then work thr
 
 ## Resources
 
-- [T-Route (NOAA-OWP)](https://github.com/said-uzzaman/t-route-MST.git)
+- [T-Route](https://github.com/said-uzzaman/t-route-MST.git)
 - [NextGen Framework](https://github.com/said-uzzaman/ngen.git)
 - [NOAA National Water Model](https://water.noaa.gov/about/nwm)
 
