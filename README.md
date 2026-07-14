@@ -10,7 +10,7 @@ T-Route is a tree-based, one-dimensional channel routing model that operates on 
 |---|---|
 | `agenda/` | Workshop schedule and session outline |
 | `presentations/` | Slide decks for each session |
-| `data/` | Example and subset datasets (hydrofabric, forcing, USGS observations) |
+| `data/` | Configuration files and example datasets. Large files are available on [SharePoint](https://mailmissouri-my.sharepoint.com/:f:/g/personal/msmg8_umsystem_edu/IgCMMdqhNqLeR79Gf7p2LJsUAYS19Xj1-RymwmsHMtkZ-Ic?e=Wpv4e6)|
 | `docs/` | Setup instructions and additional guidance |
 
 ## Getting Started
